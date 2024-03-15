@@ -3,8 +3,9 @@
 ![Yehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehorizon&show_icons=true&theme=transparent&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehorizon&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Many years of commercial and fun development. 
-Read my notes & check my blog (for CV). 
+Many years of commercial and fun development.
+
+Read my notes & check my blog [CLICKME](https://yehorizon.github.io) (for CV). 
 - 📫 How to reach me: 
 telegram: @yehorizon
 
