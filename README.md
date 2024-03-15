@@ -5,7 +5,7 @@
 
 Many years of commercial and fun development.
 
-Read my notes & check my blog [CLICKME](https://yehorizon.github.io) (for CV). 
+Read my [notes](https://github.com/yehorizon/Notes) & check my blog [CLICKME](https://yehorizon.github.io) (for CV). 
 - 📫 How to reach me: 
 telegram: @yehorizon
 
