@@ -1,5 +1,7 @@
 ### Meow 👋
 
+[![Yehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehorizon)](https://github.com/anuraghazra/github-readme-stats)
+
 Many years of commercial and fun development. 
 Read my notes & check my blog (for CV). 
 - 📫 How to reach me: 
