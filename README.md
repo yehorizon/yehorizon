@@ -12,7 +12,10 @@ Below are few of my skills & personal.
 var MyProfile = {
     username: "yehorizon",
     age: 21,
-    languages: ["Russian", "English"],
+    languages: {
+        "Russian": "Native",
+        "English": "B2",
+    },
     tech: {
         "Markup": ["Html5", "Jinja2", "Markdown", "Tex", "CSS"]
         "Docker": ["Docker-compose", "DockerHub"],
@@ -22,6 +25,7 @@ var MyProfile = {
         "Databases, Brokers": ["Kafka", "RabbitMQ", "Redis", "PGsql", "MySQL", "MongoDB"]
         "Servers": ["Nginx", "Apache"],
         "Features": ["VMProtect", "FASM", "Reverse Engineering", "Win32 API"] // Pascal ABC 
-    };    
+    },
+    domains: ["researcher", "musician", "sport enjoyer", "book lover"], // homo sapiens 
 }
 ```
