@@ -5,12 +5,13 @@ Read my notes & check my blog (for CV).
 - 📫 How to reach me: 
 telegram: @yehorizon
 
-Below are few of my skills.
+Below are few of my skills & personal.
 
 
 ```
 var MyProfile = {
     username: "yehorizon",
+    age: 21,
     languages: ["Russian", "English"],
     tech: {
         "Markup": ["Html5", "Jinja2", "Markdown", "Tex", "CSS"]
