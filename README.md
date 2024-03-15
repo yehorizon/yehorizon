@@ -29,9 +29,9 @@ var MyProfile = {
         "Programming Languages": ["Python", "Golang", "JS", "Rust", "C", "Bash"],
         "Frameworks": ["Aiohttp", "FastAPI", "SQLAlchemy", "Django", "Pandas", "QT", "Bootstrap"],
         "Devops, Techniques": ["Containers", "Git", "CI/CD", "Prometheus", "Grafana"],
-        "Databases, Brokers": ["Kafka", "RabbitMQ", "Redis", "PGsql", "MySQL", "MongoDB"]
+        "Databases, Brokers": ["Kafka", "RabbitMQ", "Redis", "PGsql", "MySQL", "MongoDB"],
         "Servers": ["Nginx", "Apache"],
-        "Features": ["VMProtect", "FASM", "Reverse Engineering", "Win32 API"] // Pascal ABC 
+        "Features, Keywords": ["VMProtect", "FASM", "Reverse Engineering", "Win32 API", "TDD", "IaaS"] // Pascal ABC 
     },
     domains: ["researcher", "musician", "sport enjoyer", "book lover"], // homo sapiens 
 }
