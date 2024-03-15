@@ -1,12 +1,12 @@
-### Hi there 👋
+### Meow 👋
 
 <!--
 Many years of commercial and fun development. 
 Read my notes & check my blog. 
 - 📫 How to reach me: 
-     - telegram: @yehorizon
-Below are few of my skills.
+telegram: @yehorizon
 
+Below are few of my skills.
 -->
 
 ```
