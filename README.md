@@ -1,13 +1,12 @@
 ### Meow 👋
 
-<!--
 Many years of commercial and fun development. 
-Read my notes & check my blog. 
+Read my notes & check my blog (for CV). 
 - 📫 How to reach me: 
 telegram: @yehorizon
 
 Below are few of my skills.
--->
+
 
 ```
 var MyProfile = {
