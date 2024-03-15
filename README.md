@@ -30,7 +30,7 @@ var MyProfile = {
     tech: {
         "Markup": ["Html5", "Jinja2", "Markdown", "Tex", "CSS"]
         "Containers, OCI": ["Docker-compose", "DockerHub", "Podman", "Docker"],
-        "Programming Languages": ["Python", "Golang", "JS", "Rust", "C", "Bash"],
+        "Programming Languages": ["Python", "Golang", "JS", "Rust", "C", "Bash", "SQL"],
         "Frameworks": ["Aiohttp", "FastAPI", "SQLAlchemy", "Django", "Pandas", "QT", "Bootstrap"],
         "Devops, Techniques": ["Containers", "Git", "CI/CD", "Prometheus", "Grafana"],
         "Databases, Brokers": ["Kafka", "RabbitMQ", "Redis", "PGsql", "MySQL", "MongoDB"],
