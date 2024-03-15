@@ -16,6 +16,13 @@ var MyProfile = {
         "Russian": "Native",
         "English": "B2",
     },
+    desktop: {
+        "OS": "Linux",
+        "WM": "Sway",
+        "Code Editors": ["NeoVim", "VSCode"],
+        "Bibliography": ["Zotero"],
+        "Note taking: ["Neovim", "Obsidian"],
+    },
     tech: {
         "Markup": ["Html5", "Jinja2", "Markdown", "Tex", "CSS"]
         "Containers, OCI": ["Docker-compose", "DockerHub", "Podman", "Docker"],
