@@ -1,16 +1,26 @@
 ### Hi there 👋
 
 <!--
-**yehorizon/yehorizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Many years of commercial and fun development. 
+Read my notes & check my blog. 
+- 📫 How to reach me: 
+     - telegram: @yehorizon
+Below are few of my skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+var MyProfile = {
+
+    username: "yehorizon",
+    languages: ["Russian", "English"],
+    tech: {
+        "Markup": ["Html5", "Jinja2", "Markdown", "Tex", "CSS"]
+        "Docker": ["Docker-compose", "DockerHub"],
+        "Programming Languages": ["Python", "Golang", "JS", "Rust", "C", "Bash"],
+        "Frameworks": ["Aiohttp", "FastAPI", "SQLAlchemy", "Django", "Pandas", "QT", "Bootstrap"],
+        "Devops, Techniques": ["Git", "CI/CD", "Prometheus", "Grafana"],
+        "Databases, Brokers": ["Kafka", "RabbitMQ", "Redis", "PGsql", "MySQL", "MongoDB"]
+        "Servers": ["Nginx", "Apache"],
+        "Features": ["VMProtect", "FASM", "Reverse Engineering", "Win32 API"] // Pascal ABC 
+    };    
+};
