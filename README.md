@@ -1,6 +1,6 @@
 ### Meow 👋
 
-![Yehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehorizon&show_icons=true&theme=transparent&include_all_commits=true&hide_progress=true)
+![Yehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehorizon&show_icons=true&theme=transparent&include_all_commits=true&hide_progress=True)
 
 Many years of commercial and fun development. 
 Read my notes & check my blog (for CV). 
