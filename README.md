@@ -1,7 +1,7 @@
 ### Meow 👋
 
 ![Yehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehorizon&show_icons=true&theme=transparent&include_all_commits=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehorizon&theme=transparent&layout=compact&exclude=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehorizon&theme=transparent&layout=compact&hide=tex,html)](https://github.com/anuraghazra/github-readme-stats)
 
 Many years of commercial and fun development.
 
